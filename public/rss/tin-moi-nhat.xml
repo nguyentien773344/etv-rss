@@ -1,4 +1,5 @@
-<rss version="2.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
 	<channel>
 		<title>Newsletter Special Category</title>
 		<pubDate>Sat, 25 Nov 2023 00:35:34 +0000</pubDate>
