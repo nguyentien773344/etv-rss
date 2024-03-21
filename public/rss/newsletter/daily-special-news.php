@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:slash="http://purl.org/rss/1.0/modules/slash/" version="2.0">
 <channel>
 <title>Newsletter Daily Special News</title>
